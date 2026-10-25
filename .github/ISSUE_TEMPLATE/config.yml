@@ -1,1 +1,5 @@
-
+blank_issues_enabled: false
+contact_links:
+  - name: Install guide and troubleshooting
+    url: https://github.com/itsliberrytastyy/hustlybot_browser#install
+    about: How to load the browser, and what its error messages mean.
