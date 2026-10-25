@@ -7,7 +7,7 @@ body:
       value: |
         Two things to check first:
 
-        - **"Manifest file is missing or unreadable"** means the wrong folder was chosen. Choose the folder that has `hustlyctn.json` directly inside it.
+        - **"Manifest file is missing or unreadable"** means the wrong folder was chosen. Choose the folder that has `manifest.json` directly inside it.
         - The [Troubleshooting table](https://github.com/itsliberrytastyy/hustlybot_browser#troubleshooting) covers the messages the extension itself shows.
   - type: dropdown
     id: browser
